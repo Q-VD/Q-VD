@@ -74,7 +74,7 @@ Here are some of the projects I've worked on:
 
 ## 📫 Get in Touch
 
-- **GitHub:** [@QuintenVanDommelen](https://github.com/QuintenVanDommelen)
+- **GitHub:** [@QuintenVanDommelen](https://github.com/Q-VD)
 - **Location:** Belgium
 
 ---
