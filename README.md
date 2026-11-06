@@ -45,7 +45,6 @@ Here are some of the projects I've worked on:
 |---|---|---|
 | **Cocktailbar** | A web-based cocktail ordering and control system integrating a database, Raspberry Pi and hardware components. | Python, Flask, MariaDB, HTML, CSS |
 | **ORBIT** | A local IoT platform for monitoring and controlling multiple Raspberry Pi Pico devices. | Python, Flask, SQLite, MicroPython |
-| **FRIDAY** | A personal assistant project focused on local automation, system monitoring and information management. | Python, Flask, Linux |
 | **IoT Greenhouse** | An automated greenhouse monitoring and control system. | Raspberry Pi Pico WH, MicroPython |
 | **Arduino Projects** | Various electronics and automation projects involving sensors, motors and LEDs. | Arduino, C++ |
 
